@@ -1,0 +1,87 @@
+PS C:\Users\vinay\PycharmProjects\BhulekhAgent> pip install pypdf
+Collecting pypdf
+  Downloading pypdf-6.13.3-py3-none-any.whl.metadata (7.2 kB)
+Requirement already satisfied: typing_extensions>=4.0 in c:\users\vinay\appdata\local\programs\python\python39\lib\site-packages (from pypdf) (4.12.2)
+Downloading pypdf-6.13.3-py3-none-any.whl (347 kB)
+Installing collected packages: pypdf
+Successfully installed pypdf-6.13.3
+PS C:\Users\vinay\PycharmProjects\BhulekhAgent> python merge_pdf.py
+Traceback (most recent call last):
+  File "C:\Users\vinay\PycharmProjects\BhulekhAgent\merge_pdf.py", line 1, in <module>
+    from pypdf import PdfMerger
+ImportError: cannot import name 'PdfMerger' from 'pypdf' (C:\Users\vinay\AppData\Local\Programs\Python\Python39\lib\site-packages\pypdf\__init__.py)
+PS C:\Users\vinay\PycharmProjects\BhulekhAgent> python merge_pdf.py
+PDF Count = 42
+Adding: 775.pdf
+Adding: 775_2.pdf
+Adding: 775_4516.pdf
+Adding: 775_4517.pdf
+Adding: 775_4560.pdf
+Adding: 775_4594.pdf
+Adding: 775_4735.pdf
+Adding: 775_4735_5684.pdf
+Adding: 775_4856.pdf
+Adding: 775_4858.pdf
+Adding: 775_4858_7126.pdf
+Adding: 775_4886.pdf
+Adding: 775_4887.pdf
+Adding: 775_4907.pdf
+Adding: 775_4939.pdf
+Adding: 775_4963.pdf
+Adding: 775_5137.pdf
+Adding: 775_5183.pdf
+Adding: 775_5187.pdf
+Adding: 775_5236.pdf
+Adding: 775_5276.pdf
+Adding: 775_5314.pdf
+Adding: 775_5448.pdf
+Adding: 775_5546.pdf
+Adding: 775_5598.pdf
+Adding: 775_5600.pdf
+Adding: 775_5646.pdf
+Adding: 775_5935.pdf
+Adding: 775_6013.pdf
+Adding: 775_6107.pdf
+Adding: 775_6286.pdf
+Adding: 775_6436.pdf
+Adding: 775_6509.pdf
+Adding: 775_6554.pdf
+Adding: 775_6562.pdf
+Adding: 775_6565.pdf
+Adding: 775_6781.pdf
+Adding: 775_7143.pdf
+Adding: 775_7213.pdf
+Adding: 775_8690.pdf
+Adding: 775_5448.pdf
+Adding: 775_5546.pdf
+Adding: 775_5598.pdf
+Adding: 775_5600.pdf
+Adding: 775_5646.pdf
+Adding: 775_5935.pdf
+Adding: 775_6013.pdf
+Adding: 775_6107.pdf
+Adding: 775_6286.pdf
+Adding: 775_6436.pdf
+Adding: 775_6509.pdf
+Adding: 775_6554.pdf
+Adding: 775_6562.pdf
+Adding: 775_6565.pdf
+Adding: 775_6781.pdf
+Adding: 775_7143.pdf
+Adding: 775_7213.pdf
+Adding: 775_8690.pdf
+Adding: 775_6554.pdf
+Adding: 775_6562.pdf
+Adding: 775_6565.pdf
+Adding: 775_6781.pdf
+Adding: 775_7143.pdf
+Adding: 775_7213.pdf
+Adding: 775_8690.pdf
+Adding: 775_7143.pdf
+Adding: 775_7213.pdf
+Adding: 775_8690.pdf
+Adding: 775_8691.pdf
+Adding: 775_8875.pdf
+
+Merged PDF Created:
+C:\Users\vinay\Downloads\Merged_Bhulekh\Merged_Bhulekh_Final.pdf

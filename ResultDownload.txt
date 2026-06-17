@@ -1,0 +1,543 @@
+PS C:\Users\vinay\PycharmProjects\BhulekhAgent> python main.py
+1. Opening Bhulekh
+2. URL = https://bhulekh.ori.nic.in/BhulekhError.aspx
+3. Error page found
+4. New session opened
+5. Selecting District
+6. District Done
+7. Tahasil Done
+8. Village Done
+9. Plot Clicked
+10. Reading Dropdown
+11. Options Loaded = 9223
+12. 775 Plots Found = 42
+Unique plots = 41
+
+Processing Plot: 775
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4516
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4516.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4517
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4517.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4560
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4560.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4594
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4594.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4735
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4735.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4856
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4856.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4858
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4858.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4886
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4886.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4887
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4887.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4907
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4907.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4939
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4939.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4963
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4963.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5137
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5137.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5183
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5183.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5187
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5187.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5236
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5236.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5276
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5276.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5314
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5314.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5448
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5448.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5546
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5546.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5598
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5598.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5600
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5600.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/5646
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5646.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4735/            5684
+FAILED : 775/4735/            5684 Page.select_option: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("#ctl00_ContentPlaceHolder1_ddlBindData")
+  -   locator resolved to <select onblur="'style=width;200;'" id="ctl00_ContentPlaceHolder1_ddlBindData" name="ctl00$ContentPlaceHolder1$ddlBindData">…</select>
+  - attempting select option action
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #1
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #2
+  -   waiting 20ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #3
+  -   waiting 100ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #4
+  -   waiting 100ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #5
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #6
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #7
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #8
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #9
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #10
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #11
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #12
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #13
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #14
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #15
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #16
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #17
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #18
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #19
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #20
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #21
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #22
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #23
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #24
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #25
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #26
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #27
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #28
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #29
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #30
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #31
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #32
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #33
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #34
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #35
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #36
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #37
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #38
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #39
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #40
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #41
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #42
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #43
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #44
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #45
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #46
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #47
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #48
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #49
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #50
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #51
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #52
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #53
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #54
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #55
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #56
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #57
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #58
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #59
+  -   waiting 500ms
+  -   waiting for element to be visible and enabled
+  -   did not find some options
+  - retrying select option action, attempt #60
+  -   waiting 500ms
+
+
+Processing Plot: 775/5935
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_5935.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6013
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6013.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6107
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6107.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6286
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6286.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6436
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6436.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6509
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6509.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6554
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6554.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6562
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6562.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6565
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6565.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/6781
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_6781.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/4858/7126
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_4858_7126.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/7143
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_7143.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/7213
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_7213.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/8690
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_8690.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/8691
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_8691.pdf
+Preview Closed
+Ready For Next Plot
+
+Processing Plot: 775/8875
+RoR Opened
+Print Dialog Opened
+PDF Saved: 775_8875.pdf
+Preview Closed
+Ready For Next Plot
+
+ALL PLOTS COMPLETED
